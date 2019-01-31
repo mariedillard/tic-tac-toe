@@ -1,0 +1,23 @@
+body {
+  font-family: 'BarrioRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+}
+.board {
+  padding: inherit;
+}
+.space {
+  border-style: dashed;
+  border-color: black;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 50px;
+}
+.o {
+  color: blue;
+}
+.x {
+  color: red;
+}
